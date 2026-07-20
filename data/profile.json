@@ -1,0 +1,44 @@
+{
+  "name": "Gajendra Mandal",
+  "title": "AI Researcher & ML Engineer",
+  "bio": "I am Gajendra Mandal, a final-year B.Tech (Hons.) Data Science student at CSVTU Bhilai with a solid foundation in computer science and hands-on experience in academic and research projects. During my internship at IIT Gandhinagar, I worked on AI-driven solutions, including thermal imaging-based respiration monitoring and applying vision-language models to thermal data. This strengthened my skills in machine learning, computer vision, and end-to-end project development. I aim to leverage these capabilities to tackle real-world challenges in data science and AI while contributing to innovative, impactful projects in a dynamic environment.",
+  "socialLinks": [
+    { "label": "GitHub", "url": "https://github.com/gajendramandal" },
+    { "label": "LinkedIn", "url": "https://linkedin.com/in/gajendra-mandal" },
+    { "label": "Email", "url": "mailto:gajendramandal2003@gmail.com" },
+    { "label": "Phone", "url": "tel:+916264769759" },
+    { "label": "Resume", "url": "https://drive.google.com/file/d/1QoHDN4VoyB4Euz-7WboYOHlI2faY5wSo/view?usp=sharing" }
+  ],
+  "stats": [
+    { "value": "1", "label": "Publication" },
+    { "value": "2022-2026", "label": "B.Tech(H) CSE(DS), CSVTU Bhilai" },
+    { "value": "2025", "label": "Research Intern, IIT Gandhinagar" },
+    { "value": "5+", "label": "Major Projects" }
+  ],
+  "timeline": [
+    {
+      "date": "2026-Present",
+      "description": "Research Intern – Computer Vision, IIT Gandhinagar. Developing thermal imaging-based respiration and sleep-apnea detection pipelines, YOLO-based nostril detection, and vision-language models for thermal data interpretation."
+    },
+    {
+      "date": "2024",
+      "description": "Bahikhata Project – Developed a platform to modernize record-keeping for due payments with role-based access control using HTML, CSS, PHP, JavaScript, and WordPress."
+    },
+    {
+      "date": "2024",
+      "description": "LILY - Desk Assistance – Developed a smart desk assistant integrating NLP, task automation, and interactive features using Python, OpenAI API, and Wikipedia API."
+    },
+    {
+      "date": "2022-2026",
+      "description": "B.Tech(H) CSE(DS), CSVTU Bhilai – Pursuing a Bachelor of Technology (Honours) in Computer Science and Engineering with specialization in Data Science."
+    },
+    {
+      "date": "Achievements",
+      "description": "National-Level Data Analytics Hackathon (IIM Nagpur), IDC-2024 (NSS, New Delhi), Multiple Hackathons (Coding Club), 1st place Human Rights Day (NSS), Rajya Puraskar (Scouts and Guides)."
+    },
+    {
+      "date": "Volunteering",
+      "description": "Head Boy, National Service Scheme (NSS); Nominated for IDC-2024; Achieved B-Certificate (2023-24); Organized events and participated in National Integration Camp."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+[
+ {
+  "title": "Real-Time Threat Detection from Surveillance Cameras using Machine Learning",
+  "authors": "Gajendra Mandal, J. P. Patra, Priyansh Mahant",
+  "venue": "RECCAP 2026",
+  "year": 2026,
+  "category": "conference",
+  "abstract": "This paper presents a real-time surveillance framework for detecting weapons and blunt objects using a YOLOv8-based object detection model. The proposed system combines a custom Indian blunt-object dataset with a publicly available gun and knife dataset to create a dataset of 7,959 images. Experimental results demonstrate improved detection performance and real-time inference, making the system suitable for deployment in campuses, public spaces, and transportation environments.",
+  "tags": [
+    "computer vision",
+    "YOLOv8",
+    "object detection",
+    "surveillance",
+    "weapon detection",
+    "machine learning",
+    "deep learning",
+    "security"
+  ],
+  "link": "https://arxiv.org/abs/2606.05708"
+}
+]

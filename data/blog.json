@@ -1,23 +1,20 @@
-
 [
   {
-    "title": "What is Image",
-    "date": "2025-08-27",
-    "description": "What is Image",
-    "content": "More information will be posted here soon"
+    "title": "Getting Started with Machine Learning",
+    "date": "2025-08-15",
+    "description": "A beginner-friendly guide to understanding the fundamentals of machine learning, covering key concepts, algorithms, and practical tips for getting started.",
+    "markdown": "data/markdown/getting-started-with-ml.md"
   },
   {
-    "title": "Why AI Is Important for Jobs",
-    "description": "Why AI Is Important for Jobs",
+    "title": "Understanding Image Channels and Color Spaces",
     "date": "2025-08-27",
-    "markdown": "data/markdown-sample.md"
-  },
-  {
-    "title": "Understanding the concept of Channels in an Image",
-    "date": "2025-08-27",
-    "description": "Understanding the concept of Channels in an Image",
+    "description": "An in-depth look at how images are represented digitally through channels, and the different color spaces used in computer vision applications.",
     "externalUrl": "https://medium.com/featurepreneur/understanding-the-concept-of-channels-in-an-image-6d59d4dafaa9"
+  },
+  {
+    "title": "My Experience as a Research Intern at IIT Gandhinagar",
+    "date": "2025-06-10",
+    "description": "Reflections on my research internship experience at IIT Gandhinagar, working on thermal imaging and AI-driven healthcare solutions.",
+    "content": "## Research Internship at IIT Gandhinagar\n\nWorking at IIT Gandhinagar has been a transformative experience. I joined the lab under **Prof. Nipun Batra** to work on thermal imaging-based respiration monitoring.\n\n### Key Takeaways\n\n- Learned to work with **thermal cameras** and infrared imaging\n- Developed skills in **YOLO-based object detection** for nostril tracking\n- Gained experience with **signal processing** for breathing rate extraction\n- Collaborated with a multidisciplinary team of researchers\n\n### Technical Challenges\n\nThe biggest challenge was dealing with noisy thermal data and ensuring robust detection across different sleeping positions. We addressed this through:\n\n1. Data augmentation techniques\n2. Multi-scale feature extraction\n3. Temporal smoothing algorithms\n\n> Research is the process of going up alleys to see if they are blind. — Marston Bates"
   }
 ]
-
-

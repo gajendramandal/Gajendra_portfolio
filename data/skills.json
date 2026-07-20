@@ -1,0 +1,99 @@
+[
+{
+    "category": "AI, Data Science & Computer Vision",
+    "items": [
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn",
+      "OpenCV",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "YOLOv8",
+      "Transformers",
+      "Vision Language Models (VLMs)",
+      "Deep Learning",
+      "Machine Learning",
+      "Computer Vision",
+      "Image Processing",
+      "Natural Language Processing"
+    ]
+  },
+
+
+  {
+    "category": "Programming Languages",
+    "items": [
+      "Python",
+      "C",
+      "C++",
+      "JavaScript",
+      "SQL",
+      "HTML",
+      "CSS",
+      "LaTeX"
+    ]
+  },
+  
+  
+  {
+    "category": "Backend & Web Development",
+    "items": [
+      "Node.js",
+      "Express.js",
+      "Flask",
+      "REST APIs",
+      "WordPress"
+    ]
+  },
+  {
+    "category": "Databases",
+    "items": [
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "category": "Cloud, DevOps & Tools",
+    "items": [
+      "Git",
+      "GitHub",
+      "Docker",
+      "Docker Compose",
+      "Linux",
+      "Nginx",
+      "PM2",
+      "VS Code",
+      "Jupyter Notebook",
+      "Google Colab"
+    ]
+  },
+
+{
+    "category": "IoT & Embedded Systems",
+    "items": [
+      "Arduino",
+      "ESP8266 (ESP-01)",
+      "IoT Dashboard Development",
+      "MQTT",
+      "WebSocket",
+      "HTTP/HTTPS",
+      "TCP/IP",
+      "Serial Communication",
+      "Sensor Integration",
+      "AT Commands"
+    ]
+  },
+
+  {
+    "category": "Research & Data Analysis",
+    "items": [
+      "Scientific Writing",
+      "Research Methodology",
+      "Signal Processing",
+      "Thermal Imaging",
+      "Model Evaluation"
+    ]
+  }
+]

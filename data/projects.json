@@ -1,0 +1,85 @@
+[
+  
+  {
+    "title": "Screen Apnea - Thermal-Based Sleep Apnea Detection",
+    "description": "An AI-powered computer vision system for non-contact sleep apnea detection using thermal imaging. The project detects the nostril region using YOLO, extracts respiratory signals from thermal videos, and estimates breathing patterns for apnea event analysis.",
+    "category": "Artificial Intelligence",
+    "technologies": [
+      "Python",
+      "YOLOv8",
+      "OpenCV",
+      "PyTorch",
+      "NumPy",
+      "SciPy",
+      "Matplotlib",
+      "Computer Vision",
+      "Thermal Imaging"
+    ],
+    "status": "completed",
+    "date": "2025-06-15",
+    "githubUrl": "https://github.com/gajendramandal/Screen_Apnea"
+  },
+
+  {
+    "title": "Real-Time Surveillance Alert System with Vision Language Model",
+    "description": "An intelligent surveillance system that combines YOLOv8 object detection with Vision Language Models (VLMs) to detect weapons, suspicious activities, and generate contextual alerts in real time. The system is designed for offline deployment and smart surveillance applications.",
+    "category": "Artificial Intelligence",
+    "technologies": [
+      "Python",
+      "YOLOv8",
+      "Vision Language Models",
+      "OpenCV",
+      "PyTorch",
+      "Transformers",
+      "Flask",
+      "Computer Vision"
+    ],
+    "status": "completed",
+    "date": "2026-03-20",
+    "githubUrl": "https://github.com/gajendramandal/Real-Time-Surveillance-Alert-System-with-VLM"
+    
+  },
+
+  {
+    "title": "Arduino Nano + ESP01 IoT Dashboard",
+    "description": "A Blynk-inspired IoT platform built from scratch using Arduino Nano and ESP-01. The project supports real-time monitoring and control of sensors and actuators through a custom web dashboard using HTTP, WebSocket, and MQTT communication.",
+    "category": "Internet of Things",
+    "technologies": [
+      "Arduino",
+      "C++",
+      "ESP8266",
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "WebSocket",
+      "MQTT",
+      "HTML",
+      "CSS"
+    ],
+    "status": "completed",
+    "date": "2025-12-10",
+    "githubUrl": "https://github.com/gajendramandal/Arduino-Nano-ESP01-Blynk"
+    
+  },
+  
+
+  {
+    "title": "Bahikhata - Digital Record Keeping Platform",
+    "description": "A platform to modernize record-keeping for due payments, replacing traditional pen-and-paper methods with a digital solution featuring role-based access control.",
+    "category": "Web Development",
+    "technologies": ["HTML", "CSS", "PHP", "JavaScript", "WordPress"],
+    "status": "completed",
+    "date": "2024-06-20",
+    "githubUrl": "https://github.com/gajendramandal/bahikhata"
+  },
+  
+  {
+    "title": "LILY - Smart Desk Assistant",
+    "description": "A smart desk assistant integrating NLP, task automation, and interactive features using OpenAI API and Wikipedia API for intelligent responses.",
+    "category": "NLP & AI",
+    "technologies": ["Python", "OpenAI API", "Wikipedia API", "SQLite"],
+    "status": "completed",
+    "date": "2024-03-15",
+    "githubUrl": "https://github.com/gajendramandal/lily-assistant"
+  }
+]

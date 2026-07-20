@@ -1,35 +1,34 @@
 [
-  
   {
-    "image": "../images/campus.jpg",
-    "title": "IIT Gandhinagar's beautiful campus.",
+    "image": "/images/campus.jpg",
+    "title": "IIT Gandhinagar Campus",
     "description": "The campus is very green and beautiful, and after the rain, it looks even more attractive and enjoyable.",
     "date": "2025-03-10",
-    "category": "IIT Gandhinagar",
-    "location": "Gujarat"
+    "category": "Campus Life",
+    "location": "IIT Gandhinagar, Gujarat"
   },
   {
-    "image": "../images/group_photo.jpeg", 
-    "title": "A group photo with Nipun Sir and all the lab members",
-    "description": " Everyone is gathered together, smiling warmly",
+    "image": "/images/group_photo.jpeg",
+    "title": "Lab Group Photo with Nipun Sir",
+    "description": "A group photo with Prof. Nipun Batra and all the lab members. Everyone is gathered together, smiling warmly.",
     "date": "2025-01-10",
-    "category": "IIT Gandhinagar",
-    "location": "Gujarat"
+    "category": "Research Lab",
+    "location": "IIT Gandhinagar, Gujarat"
   },
   {
-    "image": "../images/lal.jpg",
-    "title": "Lal Minar of IIT GN",
-    "description": "The Lal Minar at IIT Gandhinagar is a beautiful and fascinating structure",
+    "image": "/images/lal.jpg",
+    "title": "Lal Minar of IIT Gandhinagar",
+    "description": "The Lal Minar at IIT Gandhinagar is a beautiful and iconic structure on campus.",
     "date": "2025-01-10",
-    "category": "IIT Gandhinagar",
-    "location": "Gujarat"
+    "category": "Campus Life",
+    "location": "IIT Gandhinagar, Gujarat"
   },
   {
-    "image": "../images/robots.jpg", 
+    "image": "/images/robots.jpg",
     "title": "Off-Road Vehicle Prototype at IITGN",
-    "description": "Students at IIT Gandhinagar assemble a roll cage frame for an off-road buggy in a workshop",
+    "description": "Students at IIT Gandhinagar assemble a roll cage frame for an off-road buggy in a workshop.",
     "date": "2025-04-10",
-    "category": "IIT Gandhinagar",
-    "location": "Gujarat"
+    "category": "Research Lab",
+    "location": "IIT Gandhinagar, Gujarat"
   }
 ]
